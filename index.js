@@ -1,1 +1,1 @@
-print ("hello")
+alert ("hello")
